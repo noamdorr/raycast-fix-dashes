@@ -3,7 +3,7 @@
   "name": "fix-dashes",
   "title": "Fix Dashes",
   "description": "Convert em-dashes and en-dashes to regular hyphens",
-  "icon": "minus.circle",
+  "icon": "command-icon.png",
   "author": "noam",
   "categories": [
    "Productivity"
